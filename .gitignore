@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/SkeltonForMath/.vs/SkeltonForMath/v16/ipch/AutoPCH/1b6a8e7f122563f7/MAIN.ipch
+/SkeltonForMath/.vs/SkeltonForMath/v16/Browse.VC.opendb
+/SkeltonForMath/.vs/SkeltonForMath/v16/Browse.VC.db
